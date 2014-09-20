@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>ab13f4c0-ff52-4893-9e01-66e33fc98299</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Test Excel file.xlsx</DisplayName>
+    <PathInsideRepo>Test docs</PathInsideRepo>
+    <RepoRootFolder>C:\Users\Windows64\Documents\Snirt\lotus</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>989b9423-7c71-4598-ba77-d848cf7e0d4e</guid>
+  </Tags>
+</FolderEntryTags>
